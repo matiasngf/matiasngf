@@ -1,6 +1,6 @@
 ### 👋 hi
 
-I'm matias, a front end dev with a background in graphic design and passionate about IA.
+I'm matias, a front end dev with a background in graphic design and passionate about AI.
 
 **[Resume](https://github.com/matiasngf/matiasngf/blob/main/Matias%20Gonzalez%20Resume.pdf)**
 
