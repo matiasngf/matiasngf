@@ -2,7 +2,8 @@
 
 I'm matias, a front end dev with a background in graphic design and passionate about IA.
 
-<a target="_blank" href="https://www.linkedin.com/in/mgonzalezf">Linkedin</a>
+#### [Resume](https://github.com/matiasngf/matiasngf/blob/main/Matias%20Gonzalez%20Resume.pdf)
+#### [LinkedIn](https://www.linkedin.com/in/mgonzalezf)
 
 ### Studies
 - Undergraduate degree in Cybercrime and Technologies Applied to Research, [Universidad Austral](https://www.austral.edu.ar/), 2021
