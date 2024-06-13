@@ -1,6 +1,6 @@
 ### 👋 hi
 
-I'm matias, a front end dev with a background in graphic design and passionate about AI.
+I'm matias, a front end dev with a background in graphic design.
 
 **[matiasgf.dev](https://matiasgf.dev)**
 
